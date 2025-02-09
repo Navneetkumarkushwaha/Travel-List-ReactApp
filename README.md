@@ -13,7 +13,8 @@ Clear All: Option to clear all items from the list.
 
 Deployment
 The application has been deployed and can be accessed here.
-https://gentle-cuchufli-3d9bbf.netlify.app/
+[Open Travel-list App](<[your-deployed-app-link](https://gentle-cuchufli-3d9bbf.netlify.app/)>){:target="_blank"}
+
 
 Technologies Used
 ReactJS(List any additional technologies or libraries used)
